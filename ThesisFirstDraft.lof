@@ -1,0 +1,26 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces {\em Architecture of optical networks}\relax }}{5}{figure.caption.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces {\em Basic structure of an optical fiber}\relax }}{6}{figure.caption.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces {\em Multiplexer and demultiplexer}\relax }}{8}{figure.caption.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces {\em Add drop explanation}\relax }}{9}{figure.caption.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces {\em (a) Static and (b) Dynamic Optical Cross Connect Switch}\relax }}{10}{figure.caption.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces {\em Wavelength Division Multiplexing}\relax }}{11}{figure.caption.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces {\em Physical and Logical Topology}\relax }}{12}{figure.caption.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces {\em Attack Aware Inband and Out-of-band}\relax }}{15}{figure.caption.8}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces {\em Optical Amplifier(OA)}\relax }}{15}{figure.caption.9}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces {\em Gain Competition in amplifiers}\relax }}{16}{figure.caption.10}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces {\em Shared Path Protection}\relax }}{17}{figure.caption.11}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces {\em Shared Path Protection}\relax }}{18}{figure.caption.12}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces {\em 6-node physical network topology}\relax }}{23}{figure.caption.13}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces {\em Considering first adjacent channel}\relax }}{24}{figure.caption.14}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces {\em Illustration of invalid Attack-aware RWA}\relax }}{34}{figure.caption.15}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces {\em Illustration of valid Attack-aware RWA}\relax }}{35}{figure.caption.16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces {\em NSFNET network (14 - node topology)} \relax }}{37}{figure.caption.17}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces {\em ARPANET network (20 - node topology) }\relax }}{37}{figure.caption.18}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces {\em Example of a 4-node network and corresponding topology file \cite {el2015attack} }\relax }}{38}{figure.caption.19}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces {\em Comparison of blocking probabilities using different approaches }\relax }}{40}{figure.caption.23}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces {\em Comparison of blocking probabilities with different number of channels }\relax }}{42}{figure.caption.27}
+\addvspace {10\p@ }

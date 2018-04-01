@@ -1,0 +1,10 @@
+@article{agrafiotis2003stochastic,
+  title={Stochastic proximity embedding},
+  author={Agrafiotis, Dimitris K},
+  journal={Journal of computational chemistry},
+  volume={24},
+  number={10},
+  pages={1215--1221},
+  year={2003},
+  publisher={Wiley Online Library}
+}
